@@ -1,0 +1,57 @@
+.billy{
+ color: rgb(53,60,69);
+ font-family: arial;
+ font-size:80px;
+ margin:-10px;
+ padding-top: 3%;
+ padding-left: 90px;
+ /*background-color: white;*/
+
+}
+
+.name{
+	background-color: white;
+	;
+}
+
+/*.menu{
+ color: rgb(53,60,69);
+ font-family: arial;
+ font-size:50px;
+ margin-top: 150px;
+ margin-left: 90px;
+ }
+
+*/
+.header{
+ color: rgb(199,202,206);
+ font-family: arial;
+ font-size:50px;
+/* margin-top: -70px;*/
+  margin-left: 90px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: arial;
+ font-size:50px;
+  color: rgb(53,60,69);
+
+}
+
+a{
+	 font-family: arial;
+ 	font-size:25px;
+  	color: rgb(53,60,69);
+}
+
+li {
+  display: inline;
+}
+
+body{
+	background-color: rgb(53,60,69);
+}
